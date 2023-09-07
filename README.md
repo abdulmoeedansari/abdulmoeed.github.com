@@ -8,3 +8,4 @@ Customer Service Representative @ E-com
 - Operating Systems 
 - Order Processing
 - Placing Orders
+- Customer Support
